@@ -1,0 +1,9 @@
+.picture-list {
+    display: flex;
+    flex-wrap: wrap;
+
+    &__frame {
+        height: 20rem;
+        width: 20rem;
+    }
+}
